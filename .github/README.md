@@ -2,7 +2,7 @@
 
 # Galaxia Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Galaxia Music Bot](https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Galaxia Music Bot](https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC) ɪs ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏ ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs.
 
 * Yᴏᴜᴛᴜʙᴇ, Sᴏᴜɴᴅᴄʟᴏᴜᴅ, Aᴘᴘʟᴇ Mᴜsɪᴄ, Sᴘᴏᴛɪғʏ, Rᴇssᴏ, Lɪᴠᴇ Sᴛʀᴇᴀᴍs ᴀɴᴅ Tᴇʟᴇɢʀᴀᴍ Aᴜᴅɪᴏs & Vɪᴅᴇᴏs sᴜᴘᴘᴏʀᴛ.
 * Wʀɪᴛᴛᴇɴ ғʀᴏᴍ sᴄʀᴀᴛᴄʜ, ᴍᴀᴋɪɴɢ ɪᴛ sᴛᴀʙʟᴇ ᴀɴᴅ ʟᴇss ᴄʀᴀsʜᴇs ᴡɪᴛʜ ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ᴛʜᴜᴍʙɴᴀɪʟs.
