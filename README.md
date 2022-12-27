@@ -1,6 +1,6 @@
 <h2 align="center">
 
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「GALAXIA-MUSIC 」──
 
 </h2>
 
@@ -12,15 +12,15 @@
 
 <p align="center">
 
-<a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC/stargazers"><img src="https://img.shields.io/github.com/EDWARD-ELRIC39/GALAXIA-MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 
-<a href="https://github.com/AnonymousX1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
-<a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 
-<a href="https://github.com/AnonymousX1025/AnonXMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC/commits/EDWARD-ELRIC39"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 </p>
 
@@ -36,7 +36,7 @@
 
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
 
@@ -68,7 +68,7 @@ curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-ge
 
 - Clone the repository by :
 
-git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic
+git clone https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC && cd GALAXIA-MUSIC 
 
 - Install requirements by :
 
@@ -106,13 +106,13 @@ bash start
 
 <p align="center">
 
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DARK_COUNCIL"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GALAXIA_X_UPDATES"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
@@ -130,7 +130,7 @@ bash start
 
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 
-<a href="https://github.com/AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
+<a href="https://github.com/EDWARD-ELRIC39"> <img src="https://img.shields.io/badge/EDWARD-black?style=for-the-badge&logo=github" alt="EDWARD" /> </a>
 <a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
 
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
