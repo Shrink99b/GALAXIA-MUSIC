@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/69f9b56451fc7a128c97e.jpg">
 
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://telegra.ph/file/47236615299ba61730249.jpg">
 
 </p>
 
