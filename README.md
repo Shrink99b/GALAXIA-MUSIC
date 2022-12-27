@@ -4,4 +4,8 @@
   <img src="https://telegra.ph/file/36c9b27a5669c8cc888c6.jpg">
 
 </p>
-[DEPLOY TO HEROKU](https://dashboard.heroku.com/new?template=https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC)
+─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/EDWARDE-ELRIC39/GALAXIA-MUSIC "> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
