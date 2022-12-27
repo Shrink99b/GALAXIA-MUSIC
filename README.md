@@ -25,7 +25,7 @@
 
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 
-<a href="https://github.com/EDWARDE-ELRIC39/GALAXIA-MUSIC/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/EDWARDE-ELRIC39/GALAXIA-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/EDWARDE-ELRIC39/GALAXIA-MUSIC/commits/EDWARD-ELRIC39"> <img src="https://img.shields.io/github/last-commit/EDWARDE-ELRIC39/GALAXIA-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 </p>
 
