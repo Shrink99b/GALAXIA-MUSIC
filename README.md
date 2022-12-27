@@ -4,3 +4,4 @@
   <img src="https://telegra.ph/file/36c9b27a5669c8cc888c6.jpg">
 
 </p>
+[DEPLOY TO HEROKU](https://dashboard.heroku.com/new?template=https://github.com/EDWARD-ELRIC39/GALAXIA-MUSIC)
