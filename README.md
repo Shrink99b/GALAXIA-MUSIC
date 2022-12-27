@@ -5,13 +5,13 @@
 
 <h2 align="center">
 
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 GALAXIA MUSIC 」──
 
 </h2>
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/d2729ead2c1598555ff95.jpg">
 
 </p>
 
