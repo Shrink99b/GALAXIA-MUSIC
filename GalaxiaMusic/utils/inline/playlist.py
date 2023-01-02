@@ -29,6 +29,26 @@ def botplaylist_markup(_):
                 text=_["CLOSE_BUTTON"], callback_data="close"
             ),
         ],
+        
+        [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
     ]
     return buttons
 
