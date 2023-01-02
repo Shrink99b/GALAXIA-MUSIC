@@ -47,6 +47,26 @@ def telegram_markup_timer(_, chat_id, played, dur):
     bar = random.choice(selections)
     buttons = [
         [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
+        
+        [
             InlineKeyboardButton(
                 text=f"{played} {bar} {dur}",
                 callback_data="GetTimer",
@@ -81,6 +101,25 @@ def stream_markup(_, videoid, chat_id):
             ),
         ],
         [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
+        [
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
             )
@@ -91,6 +130,25 @@ def stream_markup(_, videoid, chat_id):
 
 def telegram_markup(_, chat_id):
     buttons = [
+        [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
@@ -120,6 +178,25 @@ def track_markup(_, videoid, user_id, channel, fplay):
             ),
         ],
         [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
+        [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
                 callback_data=f"forceclose {videoid}|{user_id}",
@@ -142,6 +219,25 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
             ),
         ],
         [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
+        [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
                 callback_data=f"forceclose {videoid}|{user_id}",
@@ -156,6 +252,25 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
 
 def livestream_markup(_, videoid, user_id, mode, channel, fplay):
     buttons = [
+        [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
         [
             InlineKeyboardButton(
                 text=_["P_B_3"],
