@@ -93,6 +93,25 @@ def get_playlist_markup(_):
             ),
         ],
         [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
+        ],
+        [
             InlineKeyboardButton(
                 text=_["BACK_BUTTON"], callback_data="home_play"
             ),
@@ -120,6 +139,25 @@ def top_play_markup(_):
             InlineKeyboardButton(
                 text=_["PL_B_11"], callback_data="SERVERTOP Personal"
             )
+        ],
+        [
+
+            InlineKeyboardButton(
+
+                text="UPDATES",
+
+                url=config.SUPPORT_CHANNEL,
+
+            ),
+
+            InlineKeyboardButton(
+
+                text="SUPPORT",
+
+                url=config.SUPPORT_GROUP,
+
+            ),
+
         ],
         [
             InlineKeyboardButton(
