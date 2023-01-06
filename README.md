@@ -100,7 +100,7 @@ bash start
 
 <h3 align="center">
 
-       ─「 sᴜᴩᴩᴏʀᴛ 」─
+     ─「 sᴜᴩᴩᴏʀᴛ 」─
 
 </h3>
 
