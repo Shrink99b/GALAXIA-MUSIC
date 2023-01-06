@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/69f9b56451fc7a128c97e.jpg">
+  <img src="https://telegra.ph/file/47236615299ba61730249.jpg">
 
 </p>
 
@@ -22,11 +22,11 @@
 
 
 
-</p>
 
-<p align="center">
 
-  <img src="https://telegra.ph/file/47236615299ba61730249.jpg">
+
+
+ 
 
 </p>
 
@@ -100,7 +100,7 @@ bash start
 
 <h3 align="center">
 
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+       ─「 sᴜᴩᴩᴏʀᴛ 」─
 
 </h3>
 
