@@ -23,17 +23,17 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     buttons = [
         [
             InlineKeyboardButton(
-                text="UPDATES",
+                text=" Uᴘᴅᴀᴛᴇs ",
                 url=config.SUPPORT_CHANNEL,
             ),
             InlineKeyboardButton(
-                text="SUPPORT",
+                text=" Sᴜᴘᴘᴏʀᴛ ",
                 url=config.SUPPORT_GROUP,
             ),
         ],
         [
             InlineKeyboardButton(
-                text="OWNER", user_id=OWNER
+                text="🍷 ᴏᴡɴᴇʀ 🍷", user_id=OWNER
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
@@ -50,7 +50,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
 
             InlineKeyboardButton(
 
-                text="UPDATES",
+                text="Uᴘᴅᴀᴛᴇs ",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -58,7 +58,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
 
             InlineKeyboardButton(
 
-                text="SUPPORT",
+                text="Sᴜᴘᴘᴏʀᴛ ",
 
                 url=config.SUPPORT_GROUP,
 
@@ -104,7 +104,7 @@ def stream_markup(_, videoid, chat_id):
 
             InlineKeyboardButton(
 
-                text="UPDATES",
+                text="Uᴘᴅᴀᴛᴇs ",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -112,7 +112,7 @@ def stream_markup(_, videoid, chat_id):
 
             InlineKeyboardButton(
 
-                text="SUPPORT",
+                text="Sᴜᴘᴘᴏʀᴛ ",
 
                 url=config.SUPPORT_GROUP,
 
@@ -134,7 +134,7 @@ def telegram_markup(_, chat_id):
 
             InlineKeyboardButton(
 
-                text="UPDATES",
+                text="Uᴘᴅᴀᴛᴇs ",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -142,7 +142,7 @@ def telegram_markup(_, chat_id):
 
             InlineKeyboardButton(
 
-                text="SUPPORT",
+                text="Sᴜᴘᴘᴏʀᴛ ",
 
                 url=config.SUPPORT_GROUP,
 
@@ -181,7 +181,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="UPDATES",
+                text="Uᴘᴅᴀᴛᴇs ",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -189,7 +189,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="SUPPORT",
+                text="Sᴜᴘᴘᴏʀᴛ ",
 
                 url=config.SUPPORT_GROUP,
 
@@ -222,7 +222,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="UPDATES",
+                text="Uᴘᴅᴀᴛᴇs ",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -230,7 +230,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="SUPPORT",
+                text="Sᴜᴘᴘᴏʀᴛ ",
 
                 url=config.SUPPORT_GROUP,
 
@@ -256,7 +256,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="UPDATES",
+                text="Uᴘᴅᴀᴛᴇs ",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -264,7 +264,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="SUPPORT",
+                text="Sᴜᴘᴘᴏʀᴛ ",
 
                 url=config.SUPPORT_GROUP,
 
