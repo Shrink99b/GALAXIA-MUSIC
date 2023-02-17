@@ -50,7 +50,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
 
             InlineKeyboardButton(
 
-                text="Uᴘᴅᴀᴛᴇs ",
+                text="ᴜᴘᴅᴀᴛᴇs",
 
                 url=config.SUPPORT_CHANNEL,
 
@@ -58,7 +58,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
 
             InlineKeyboardButton(
 
-                text="Sᴜᴘᴘᴏʀᴛ ",
+                text="sᴜᴘᴘᴏʀᴛ",
 
                 url=config.SUPPORT_GROUP,
 
