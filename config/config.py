@@ -21,7 +21,7 @@ API_ID = int(getenv("API_ID", "26504178"))
 API_HASH = getenv("API_HASH", "c0ceb37c1950f121188f7fc1186e98cc")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6038719751:AAHK3od-ZD6KK8zgld-fyGXK7tI5tIZDCdw")
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://deadterabaap09:dead@cluster0.3a4z5gq.mongodb.net/?retryWrites=true&w=majority")
@@ -37,14 +37,14 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001343176320")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001749658510")
 
 # A name for your Music bot.
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6020061335").split())
+    map(int, getenv("OWNER_ID", "6040872510").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/EDWARD-ELRIC39/Galaxia-Music",
+    "https://github.com/iAgesilaus/Galaxia-Music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -65,7 +65,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/iAgesilaus"
+    "SUPPORT_CHANNEL", "https://t.me/your_uranium"
 )  # Example:- https://t.me/Galaxia_x_updates 
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/Agesilaus_chats"
