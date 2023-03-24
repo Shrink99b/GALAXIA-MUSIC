@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by EDWARD-ELRIC39@Github, < https://github.com/EDWARD-ELRIC39 >.
+# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 #
-# This file is part of < https://github.com/EDWARD-ELRIC39/Galaxia-Music > project,
+# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/EDWARD-ELRIC39/Galaxia-Music/blob/master/LICENSE >
+# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
 #
 # All rights reserved.
 
@@ -17,14 +17,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "26504178"))
-API_HASH = getenv("API_HASH", "c0ceb37c1950f121188f7fc1186e98cc")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://deadterabaap09:dead@cluster0.3a4z5gq.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -37,23 +37,26 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001749658510")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+
+# A name for your Music bot.
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6040872510").split())
+    map(int, getenv("OWNER_ID", "").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
+HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/iAgesilaus/Galaxia-Music",
+    "https://github.com/TeamYukki/YukkiMusicBot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -62,11 +65,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/the_trojan_network"
-)  # Example:- https://t.me/Galaxia_x_updates 
+    "SUPPORT_CHANNEL", None
+)  # Example:- https://t.me/TheYukki
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/trojans_chats"
-)  # Example:- https://t.me/Galaxia_x_Support
+    "SUPPORT_GROUP", None
+)  # Example:- https://t.me/YukkiSupport
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -134,8 +137,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 # Refer to https://i.postimg.cc/Bbg3LQTG/image.png
 SET_CMDS = getenv("SET_CMDS", False)
 
-# You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @GalaxiaStringBot
-STRING1 = getenv("STRING_SESSION", "AQGUa_IAmG6TbXyJKNfrx05ImyP5oUNRbQmpGgTiwQCQbVV7OoAH72atSCBx2j4x6otGr3ucrlonMFZiOQLo5ISEZQt3dbhbtDmFVx5lt5Wm_UxjS5JRMbG-oKy4UD8SxtWEV2F6jNP24CB5ZT3aqChOdZkHZSMVVCHeImDWpP7HTdwscUx7NK0pq7f5HYGsEBOSUNNYLqWBxfLjeXe1_vUEz8z-kFq8ygIuEuCaiC_3WcENW6HFOy4rRBQLXUPGUcL7tbLkTK4DbqS7WrKVe4z6q8U9f9e3gGCQ8K6trsm75dm5KXzIhvsRU7vGURKaYsyYQIKDj_Vp8PQUvvSjigq7qiaiYwAAAAFAePO4AA")
+# You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
+STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -154,7 +157,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
 LOG = 2
-LOG_FILE_NAME = "Galaxialogs.txt"
+LOG_FILE_NAME = "Yukkilogs.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}
